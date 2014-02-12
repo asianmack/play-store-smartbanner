@@ -3,7 +3,7 @@ Google Play Store Smartbanner
 
 HTML/CSS design for a banner that displays a link inside your web app to your Android app in the Google Play store.
 
-<img src="//s3.amazonaws.com/37assets/svn/1527-play-banner_framed.jpg" />
+<img src="http://asianmack.com/github/play-banner_framed.jpg" width="700" />
 
 Based on [Smart App Banner](https://github.com/glibin/smart-app-banner) by [Vitaly Glibin](https://github.com/glibin).
 
